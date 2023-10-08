@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b04e889.css",
+    "main.js": "/static/js/main.5cb74cdf.js",
+    "static/media/Hero.avif": "/static/media/Hero.1c81d33641f1296a42a4.avif",
+    "static/media/Contact.avif": "/static/media/Contact.5bf15ebdfc295947f13d.avif",
+    "static/media/2.avif": "/static/media/2.9207c3d793ded86a89ef.avif",
+    "static/media/Cruises.avif": "/static/media/Cruises.e2d56b5e4ed21c5ce056.avif",
+    "static/media/4.avif": "/static/media/4.594555fe11c4bc210aa6.avif",
+    "static/media/Resort.avif": "/static/media/Resort.929c835b0050c5aaa2e8.avif",
+    "static/media/Exerusions.avif": "/static/media/Exerusions.3f0e5dd7d3a1c089e1de.avif",
+    "static/media/3.avif": "/static/media/3.aaafbabfaff644d49e36.avif",
+    "static/media/5.avif": "/static/media/5.8edd167e767808078921.avif",
+    "static/media/1.avif": "/static/media/1.ecaaae3864587f5ff5e7.avif",
+    "index.html": "/index.html",
+    "main.2b04e889.css.map": "/static/css/main.2b04e889.css.map",
+    "main.5cb74cdf.js.map": "/static/js/main.5cb74cdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b04e889.css",
+    "static/js/main.5cb74cdf.js"
+  ]
+}
